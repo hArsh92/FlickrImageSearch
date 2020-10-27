@@ -1,8 +1,8 @@
-package com.harsh.kotlinplayground
+package com.harsh.flickrImageSearch
 
 import android.app.Application
-import com.harsh.kotlinplayground.dataSource.HikeImageService
-import com.harsh.kotlinplayground.dataSource.ImagePageSourceProvider
+import com.harsh.flickrImageSearch.dataSource.HikeImageService
+import com.harsh.flickrImageSearch.dataSource.ImagePageSourceProvider
 
 class HikeApplication : Application() {
 

@@ -1,8 +1,8 @@
-package com.harsh.kotlinplayground.view
+package com.harsh.flickrImageSearch.view
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.harsh.kotlinplayground.dataSource.ImagePageSourceProvider
+import com.harsh.flickrImageSearch.dataSource.ImagePageSourceProvider
 
 class ViewModelFactory(
     private val pageSourceProvider: ImagePageSourceProvider

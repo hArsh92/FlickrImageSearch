@@ -1,4 +1,4 @@
-package com.harsh.kotlinplayground.dataSource
+package com.harsh.flickrImageSearch.dataSource
 
 import com.google.gson.annotations.SerializedName
 

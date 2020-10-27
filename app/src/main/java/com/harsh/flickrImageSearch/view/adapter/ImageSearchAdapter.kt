@@ -1,10 +1,10 @@
-package com.harsh.kotlinplayground.view.adapter
+package com.harsh.flickrImageSearch.view.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
-import com.harsh.kotlinplayground.R
+import com.harsh.flickrImageSearch.R
 
 class ImageSearchAdapter : PagingDataAdapter<Photo, ItemImageResult>(DIFF_UTIL) {
 

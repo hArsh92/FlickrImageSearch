@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.harsh.kotlinplayground"
+        applicationId "com.harsh.FlickrImageSearch"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1

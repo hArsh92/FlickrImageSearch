@@ -1,8 +1,8 @@
-package com.harsh.kotlinplayground.dataSource
+package com.harsh.flickrImageSearch.dataSource
 
 import androidx.paging.Pager
 import androidx.paging.PagingConfig
-import com.harsh.kotlinplayground.view.adapter.Photo
+import com.harsh.flickrImageSearch.view.adapter.Photo
 
 class ImagePageSourceProvider(
     private val imageService: HikeImageService

@@ -1,4 +1,4 @@
-package com.harsh.kotlinplayground.view.adapter
+package com.harsh.flickrImageSearch.view.adapter
 
 data class Photo(
     val id: String,

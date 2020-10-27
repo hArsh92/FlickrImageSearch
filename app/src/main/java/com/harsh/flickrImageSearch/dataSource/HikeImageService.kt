@@ -1,4 +1,4 @@
-package com.harsh.kotlinplayground.dataSource
+package com.harsh.flickrImageSearch.dataSource
 
 import android.util.Log
 import okhttp3.OkHttpClient

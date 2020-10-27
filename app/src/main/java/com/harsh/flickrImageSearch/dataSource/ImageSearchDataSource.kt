@@ -1,7 +1,7 @@
-package com.harsh.kotlinplayground.dataSource
+package com.harsh.flickrImageSearch.dataSource
 
 import androidx.paging.PagingSource
-import com.harsh.kotlinplayground.view.adapter.Photo
+import com.harsh.flickrImageSearch.view.adapter.Photo
 
 class ImageSearchDataSource(
     private val searchText: String,

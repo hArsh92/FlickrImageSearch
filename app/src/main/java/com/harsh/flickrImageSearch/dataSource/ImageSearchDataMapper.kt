@@ -1,7 +1,7 @@
-package com.harsh.kotlinplayground.dataSource
+package com.harsh.flickrImageSearch.dataSource
 
 import android.net.Uri
-import com.harsh.kotlinplayground.view.adapter.Photo
+import com.harsh.flickrImageSearch.view.adapter.Photo
 
 class ImageSearchDataMapper {
 

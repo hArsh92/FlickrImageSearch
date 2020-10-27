@@ -1,4 +1,4 @@
-package com.harsh.kotlinplayground
+package com.harsh.flickrImageSearch
 
 import org.junit.Test
 

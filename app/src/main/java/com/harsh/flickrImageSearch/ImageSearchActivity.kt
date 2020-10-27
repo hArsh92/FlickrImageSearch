@@ -1,17 +1,16 @@
-package com.harsh.kotlinplayground
+package com.harsh.flickrImageSearch
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.observe
 import androidx.recyclerview.widget.GridLayoutManager
-import com.harsh.kotlinplayground.dataSource.ImagePageSourceProvider
-import com.harsh.kotlinplayground.view.ImageSearchViewModel
-import com.harsh.kotlinplayground.view.SearchTextWatcher
-import com.harsh.kotlinplayground.view.ViewModelFactory
-import com.harsh.kotlinplayground.view.adapter.ImageSearchAdapter
+import com.harsh.flickrImageSearch.dataSource.ImagePageSourceProvider
+import com.harsh.flickrImageSearch.view.ImageSearchViewModel
+import com.harsh.flickrImageSearch.view.SearchTextWatcher
+import com.harsh.flickrImageSearch.view.ViewModelFactory
+import com.harsh.flickrImageSearch.view.adapter.ImageSearchAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

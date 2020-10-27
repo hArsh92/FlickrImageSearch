@@ -1,4 +1,4 @@
-package com.harsh.kotlinplayground.view
+package com.harsh.flickrImageSearch.view
 
 import android.text.Editable
 import android.text.TextWatcher
