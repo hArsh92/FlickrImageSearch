@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Playground</string>
+    <string name="search_hint">Start Typing...</string>
+</resources>
